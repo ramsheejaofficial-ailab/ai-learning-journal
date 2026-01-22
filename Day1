@@ -1,0 +1,6 @@
+name = "Finance AI"
+monthly_income = 5000
+monthly_expense = 3200
+
+balance = monthly_income - monthly_expense
+print("Monthly balance:", balance)
